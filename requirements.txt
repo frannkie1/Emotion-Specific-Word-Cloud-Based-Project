@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+scikit-learn
+xgboost
+gensim
+smart_open
+matplotlib
+seaborn
+nltk
+streamlit
+imbalanced-learn
+wordcloud
+vadersentiment
+pathlib
+plotly
+pillow
